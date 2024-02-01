@@ -1,31 +1,30 @@
-## Hola soy Belén. Un gusto en conocerte!👋
+## ¡Hola, soy Belén! 👋
 ## 💁‍♀️ Sobre mí
-Me gusta investigar, y realizar analisis es por eso que estoy estudiando para ser Data Analyst.
+💡 ¡Bienvenido a mi mundo de datos!
+¡Hola! Soy Belén, una apasionada Data Analyst. Mi curiosidad y dedicación me impulsan a explorar nuevas perspectivas y descubrir insights que pueden transformar la forma en que vemos el mundo.
 
-* 📍Actualmente cursando mi ultimo año de Ingenieria en sistemas de informacion, y en la busqueda de mi primer empleo de data analyst.
+## 🎓 Trayectoria Profesional
+En la etapa final de mi carrera en Ingeniería en Sistemas, estoy listo para enfrentar nuevos desafíos como Data Analyst. Mi viaje educativo ha sido emocionante, pero ahora estoy ansioso por aplicar mis conocimientos en el mundo real y contribuir significativamente a proyectos innovadores.
 
-* 👩‍💻Estoy capacitandome a través de cursos y autodidacta, excel , lenguaje SQL y herramientas de visualizacion como Power BI,Tableau📊
+## 👩‍💻 Aprendizaje Continuo
+Me considero un eterno aprendiz, siempre buscando oportunidades para mejorar mis habilidades. A través de cursos y autodidactismo, he dominado herramientas como Excel, SQL y plataformas de visualización como Power BI. Estoy convencido de que la combinación de conocimientos técnicos y creatividad es la clave para desbloquear el potencial de los datos.
 
-* 🥰 Me gusta ver como a partir de los datos puedo realizar distintas interpretaciones y asi poder establecer estrategias para brindar soluciones.
-### Contactame 
- 
-<div> 
-  <a href = "mailto:gerezbelen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/belengerez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
----
-   
- ### :hammer_and_wrench: Lenguajes y herramientas :
-<div id="header" align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
- <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
- <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  </a>
-  
+## Contáctame 📲
+¡Hablemos! Estoy siempre dispuesta a colaborar en nuevos proyectos emocionantes y establecer conexiones significativas. Puedes encontrarme en: 
+<div align="left">
+    <a href="mailto:gerezbelen@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Correo Electrónico"/></a>
+    <a href="https://www.linkedin.com/in/belengerez/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </div>
+
+   
+ ## :hammer_and_wrench: Herramientas :
+Aquí algunas de las herramientas que domino:
+
+<div align="left">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+</div>
+
   
