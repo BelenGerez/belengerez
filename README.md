@@ -1,3 +1,6 @@
+
+![Banner de Linkedin Asistente Virtual Aesthetic Rosa y rojo](https://github.com/BelenGerez/belengerez/assets/108203320/a3b537ca-4ef8-444c-9115-d0d65e7e88a5)
+
 ## ¡Hola, soy Belén! 👋
 ## 💁‍♀️ Sobre mí
 💡 ¡Bienvenido a mi mundo de datos!
