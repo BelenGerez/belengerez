@@ -3,14 +3,14 @@
 
 ## ¡Hola, soy Belén! 👋
 ## 💁‍♀️ Sobre mí
-💡 ¡Bienvenido a mi mundo de datos!
+💡 ¡Bienvenidos/as!
 ¡Hola! Soy Belén, una apasionada Data Analyst. Mi curiosidad y dedicación me impulsan a explorar nuevas perspectivas y descubrir insights que pueden transformar la forma en que vemos el mundo.
 
 ## 🎓 Trayectoria Profesional
 En la etapa final de mi carrera en Ingeniería en Sistemas, estoy lista para enfrentar nuevos desafíos como Data Analyst. Mi viaje educativo ha sido emocionante, pero ahora estoy ansiosa por aplicar mis conocimientos en el mundo real y contribuir significativamente a proyectos innovadores.
 
 ## 👩‍💻 Aprendizaje Continuo
-Me considero una eterna aprendiz, siempre buscando oportunidades para mejorar mis habilidades. A través de cursos y autodidactismo, he dominado herramientas como Excel, SQL y plataformas de visualización como Power BI. Estoy convencido de que la combinación de conocimientos técnicos y creatividad es la clave para desbloquear el potencial de los datos.
+Me considero una eterna aprendiz, siempre buscando oportunidades para mejorar mis habilidades. A través de cursos y autodidactismo, he dominado herramientas como Excel, SQL y plataformas de visualización como Power BI. Estoy convencida de que la combinación de conocimientos técnicos y creatividad es la clave para desbloquear el potencial de los datos.
 
 ## Contáctame 📲
 ¡Hablemos! Estoy siempre dispuesta a colaborar en nuevos proyectos emocionantes y establecer conexiones significativas. Puedes encontrarme en: 
