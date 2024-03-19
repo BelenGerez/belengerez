@@ -28,8 +28,7 @@ Aquí algunas de las herramientas que domino:
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
-     <img src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" alt="SQL Server"/>
-    
+
 </div>
 
   
